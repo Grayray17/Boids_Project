@@ -1,0 +1,126 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imconfig.h
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui.cpp
+imgui.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui.h
+imgui_internal.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_internal.h
+ctype.h
+-
+stdlib.h
+-
+stdio.h
+-
+limits.h
+-
+stddef.h
+-
+stdint.h
+-
+stb_textedit.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_textedit.h
+windows.h
+-
+imm.h
+-
+imgui_user.inl
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_user.inl
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui.h
+imconfig.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imconfig.h
+float.h
+-
+stdarg.h
+-
+stddef.h
+-
+string.h
+-
+assert.h
+-
+imgui_user.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_user.h
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_demo.cpp
+imgui.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui.h
+ctype.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdint.h
+-
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_draw.cpp
+imgui.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui.h
+imgui_internal.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_internal.h
+stdio.h
+-
+malloc.h
+-
+stdlib.h
+-
+alloca.h
+-
+stb_rect_pack.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_rect_pack.h
+stb_truetype.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_truetype.h
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/imgui_internal.h
+stdio.h
+-
+math.h
+-
+stb_textedit.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_textedit.h
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_rect_pack.h
+stdlib.h
+-
+assert.h
+-
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_textedit.h
+string.h
+-
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_truetype.h
+stb_truetype.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_truetype.h
+stdio.h
+-
+stb_truetype.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/imgui/stb_truetype.h
+math.h
+-
+math.h
+-
+math.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+memory.h
+-
+

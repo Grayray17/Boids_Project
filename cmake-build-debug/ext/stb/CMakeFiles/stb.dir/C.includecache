@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb.c
+stb_image.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image.h
+stb_image_resize.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image_resize.h
+stb_image_write.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image_write.h
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image.h
+stb_image.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image_resize.h
+stb_image_resize.h
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image_resize.h
+stdint.h
+-
+assert.h
+-
+string.h
+-
+math.h
+-
+stdlib.h
+-
+
+/Users/matias/Desktop/Uni/Second Year/Cgra251/Assignment 3/CGRA251_Framework_A3(1)/work/ext/stb/stb_image_write.h
+stdarg.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+math.h
+-
+assert.h
+-
+
